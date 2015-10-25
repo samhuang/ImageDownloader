@@ -1,0 +1,8 @@
+﻿https://s3-us-west-2.amazonaws.com/worldphotos/america/unitedstates/chicago/chicago.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/america/unitedstates/newyork/newyork.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/europe/france/paris/paris.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/europe/germany/berlin/berlin.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/asiapacific/china/beijing/beijing.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/asiapacific/china/shanghai/shanghai.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/asiapacific/china/hongkong/hongkong.jpeg
+https://s3-us-west-2.amazonaws.com/worldphotos/asiapacific/singapore/singapore.jpeg
